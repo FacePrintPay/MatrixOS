@@ -285,3 +285,5 @@ device handle both (fall-through `switch` cases are useful here).
 If the device exposes both HID and WebUSB, it has to use two separate
 interfaces. 
 
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=hf2.md

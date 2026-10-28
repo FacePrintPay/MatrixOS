@@ -124,3 +124,5 @@ from the patcher website.
 The patcher tool can be also run from command line.
 Download [patcher.js](https://raw.githubusercontent.com/Microsoft/uf2/master/patcher/patcher.js)
 and run it with node. It will print out help.
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=cf2.md
